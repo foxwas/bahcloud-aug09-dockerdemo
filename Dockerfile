@@ -4,7 +4,7 @@ WORKDIR /app
 RUN gradle bootJar
 
 FROM openjdk:8-jdk-alpine
-EXPOSE 8080
+EXPOSE 9000
 VOLUME /tmp
 ARG LIBS=app/build/libs
 COPY --from=builder ${LIBS}/ /app/lib
