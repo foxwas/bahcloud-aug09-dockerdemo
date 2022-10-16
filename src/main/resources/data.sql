@@ -1,11 +1,11 @@
-insert into CUSTOMERS (CUSTOMER_NAME, PASSWORD, EMAIL) VALUES ('Austin', 'pass', 'austin@bah.com');
-insert into CUSTOMERS (CUSTOMER_NAME, PASSWORD, EMAIL) VALUES ('Phu', 'pass', 'phu@bah.com');
-insert into CUSTOMERS (CUSTOMER_NAME, PASSWORD, EMAIL) VALUES ('Tim', 'pass', 'tim@bah.com');
-insert into CUSTOMERS (CUSTOMER_NAME, PASSWORD, EMAIL) VALUES ('Tom', 'pass', 'tom@bah.com');
-insert into CUSTOMERS (CUSTOMER_NAME, PASSWORD, EMAIL) VALUES ('Michael', 'pass', 'michael@bah.com');
-insert into CUSTOMERS (CUSTOMER_NAME, PASSWORD, EMAIL) VALUES ('Chris', 'pass', 'chris@bah.com');
-insert into CUSTOMERS (CUSTOMER_NAME, PASSWORD, EMAIL) VALUES ('Nicholas', 'pass', 'nick@bah.com');
-insert into CUSTOMERS (CUSTOMER_NAME, PASSWORD, EMAIL) VALUES ('Jose', 'pass', 'jose@bah.com');
+insert into CUSTOMERS (CUSTOMER_NAME, PASSWORD, EMAIL) VALUES ('Brian', 'pass', 'brian@bah.com');
+insert into CUSTOMERS (CUSTOMER_NAME, PASSWORD, EMAIL) VALUES ('Manmeeta', 'pass', 'manmeeta@bah.com');
+insert into CUSTOMERS (CUSTOMER_NAME, PASSWORD, EMAIL) VALUES ('Shanti', 'pass', 'shantim@bah.com');
+insert into CUSTOMERS (CUSTOMER_NAME, PASSWORD, EMAIL) VALUES ('Jason', 'pass', 'jason@bah.com');
+insert into CUSTOMERS (CUSTOMER_NAME, PASSWORD, EMAIL) VALUES ('Abimbola', 'pass', 'abimbola@bah.com');
+insert into CUSTOMERS (CUSTOMER_NAME, PASSWORD, EMAIL) VALUES ('Faisal', 'pass', 'faisal@bah.com');
+insert into CUSTOMERS (CUSTOMER_NAME, PASSWORD, EMAIL) VALUES ('Taylor', 'pass', 'taylor@bah.com');
+insert into CUSTOMERS (CUSTOMER_NAME, PASSWORD, EMAIL) VALUES ('Mohammad', 'pass', 'mohammad@bah.com');
 
 insert into EVENTS (EVENT_CODE, TITLE, DESCRIPTION ) VALUES ('CNF001', 'All-Java Conference', 'Lectures and exhibits covering all Java topics' );
 insert into EVENTS (EVENT_CODE, TITLE, DESCRIPTION ) VALUES ('WKS002', 'Spring Boot Workshop', 'Hands-on Spring Boot Workshop' );
